@@ -1,4 +1,4 @@
-# Anime Recommendation System Case Study
+# Anime Recommendation System
 
 ## Introduction
 Hey there! Welcome to my data analysis project on anime recommendations. As a huge anime fan, I thought it would be super fun to combine my love for anime with my data analysis skills to create a recommendation system for other anime watchers. This project dives into user preferences and anime ratings to help everyone find fun new anime to watch.
